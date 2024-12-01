@@ -1,0 +1,15 @@
+D:\ausbildung\AoC_2024\Day01\bin\Debug\net8.0\Day01.exe
+D:\ausbildung\AoC_2024\Day01\bin\Debug\net8.0\Day01.deps.json
+D:\ausbildung\AoC_2024\Day01\bin\Debug\net8.0\Day01.runtimeconfig.json
+D:\ausbildung\AoC_2024\Day01\bin\Debug\net8.0\Day01.dll
+D:\ausbildung\AoC_2024\Day01\bin\Debug\net8.0\Day01.pdb
+D:\ausbildung\AoC_2024\Day01\obj\Debug\net8.0\Day01.GeneratedMSBuildEditorConfig.editorconfig
+D:\ausbildung\AoC_2024\Day01\obj\Debug\net8.0\Day01.AssemblyInfoInputs.cache
+D:\ausbildung\AoC_2024\Day01\obj\Debug\net8.0\Day01.AssemblyInfo.cs
+D:\ausbildung\AoC_2024\Day01\obj\Debug\net8.0\Day01.csproj.CoreCompileInputs.cache
+D:\ausbildung\AoC_2024\Day01\obj\Debug\net8.0\Day01.sourcelink.json
+D:\ausbildung\AoC_2024\Day01\obj\Debug\net8.0\Day01.dll
+D:\ausbildung\AoC_2024\Day01\obj\Debug\net8.0\refint\Day01.dll
+D:\ausbildung\AoC_2024\Day01\obj\Debug\net8.0\Day01.pdb
+D:\ausbildung\AoC_2024\Day01\obj\Debug\net8.0\Day01.genruntimeconfig.cache
+D:\ausbildung\AoC_2024\Day01\obj\Debug\net8.0\ref\Day01.dll
