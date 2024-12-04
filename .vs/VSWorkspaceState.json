@@ -6,8 +6,10 @@
     "\\Day01\\bin\\Debug",
     "\\Day01\\bin\\Debug\\input",
     "\\Day01\\obj",
-    "\\Day01\\obj\\Debug"
+    "\\Day01_2",
+    "\\Day01_2\\bin",
+    "\\Day01_2\\bin\\Debug"
   ],
-  "SelectedNode": "\\Day01\\Program.cs",
+  "SelectedNode": "\\Day01_2\\Day01_2.csproj",
   "PreviewInSolutionExplorer": false
 }

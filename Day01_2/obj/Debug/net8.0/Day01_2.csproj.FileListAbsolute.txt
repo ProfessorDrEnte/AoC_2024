@@ -1,0 +1,15 @@
+D:\ausbildung\AoC_2024\Day01_2\obj\Debug\net8.0\Day01_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ausbildung\AoC_2024\Day01_2\obj\Debug\net8.0\Day01_2.AssemblyInfoInputs.cache
+D:\ausbildung\AoC_2024\Day01_2\obj\Debug\net8.0\Day01_2.AssemblyInfo.cs
+D:\ausbildung\AoC_2024\Day01_2\obj\Debug\net8.0\Day01_2.csproj.CoreCompileInputs.cache
+D:\ausbildung\AoC_2024\Day01_2\obj\Debug\net8.0\Day01_2.sourcelink.json
+D:\ausbildung\AoC_2024\Day01_2\bin\Debug\net8.0\Day01_2.exe
+D:\ausbildung\AoC_2024\Day01_2\bin\Debug\net8.0\Day01_2.deps.json
+D:\ausbildung\AoC_2024\Day01_2\bin\Debug\net8.0\Day01_2.runtimeconfig.json
+D:\ausbildung\AoC_2024\Day01_2\bin\Debug\net8.0\Day01_2.dll
+D:\ausbildung\AoC_2024\Day01_2\bin\Debug\net8.0\Day01_2.pdb
+D:\ausbildung\AoC_2024\Day01_2\obj\Debug\net8.0\Day01_2.dll
+D:\ausbildung\AoC_2024\Day01_2\obj\Debug\net8.0\refint\Day01_2.dll
+D:\ausbildung\AoC_2024\Day01_2\obj\Debug\net8.0\Day01_2.pdb
+D:\ausbildung\AoC_2024\Day01_2\obj\Debug\net8.0\Day01_2.genruntimeconfig.cache
+D:\ausbildung\AoC_2024\Day01_2\obj\Debug\net8.0\ref\Day01_2.dll
